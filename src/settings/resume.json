@@ -1,47 +1,47 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
-        "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "name": "zulfan joula",
+        "label": "information technology student",
+        "email": "zulfanjoula5@gmail.com",
         "phone": "(XXX) XXX-XXXX",
         "picture": "jl.png",
         "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "job": "IT student",
+        "description": "Hey, I'm zulfan joula, a information techbnology student based in MEDAN, INDONESIA. I love all things technical. Talk soon!",
+        "summary": "based in MEDAN, INDONESIA.",
+        "keywords": "personal,website,portfolio,template,kit,zulfan,joula,zulfanjoula,computer,science,MEDAN,INDONESIA,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://github.com/zulfanjoula",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
+            "city": "medan",
+            "country": "indonesia",
             "countryCode": "DEU",
-            "region": "Bremen"
+            "region": "medan"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "zulfanjoula5@gmail.com",
+                "url": "mailto:zulfanjoula5@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "username": "zulfanjoula",
+                "url": "https://www.linkedin.com/in/zulfan-joula-62b16a386/",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "joula's",
+                "url": "https://github.com/zulfanjoula",
                 "x_icon": "fab fa-github"
             },
             {
                 "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
+                "username": "zulfanjoula's",
+                "url": "https://github.com/zulfanjoula",
                 "x_icon": "fab fa-gitlab"
             }
         ]
